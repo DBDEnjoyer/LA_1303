@@ -1,4 +1,4 @@
-# LA_1303
+# Random number guesser
 # Projekt-Dokumentation
 
 
